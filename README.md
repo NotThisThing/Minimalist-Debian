@@ -9,7 +9,7 @@ Download link: http://u.pc.cd/hGActalK
 
 ## Log
 * 2023-03-31
-  * Debian minimalist core v.0.01b released (file sha256: c8a0674966d4df1894e1c184c54293c9ae7a7dabe956a8688dd9ad0954f54577)
+  * **Debian minimalist core** v.0.01b released (file sha256: c8a0674966d4df1894e1c184c54293c9ae7a7dabe956a8688dd9ad0954f54577)
     * VM: VMWare Workstation 17 Player
     * Spec:
       * RAM: 2GB
@@ -23,7 +23,7 @@ Download link: http://u.pc.cd/hGActalK
     * installed packages for user `debian`:
       * sudo, openssh, neofetch
       * zsh, oh-my-zsh, powerlevel10k, zsh-syntax-highlighting, zsh-autosuggestions
-  * Debian minimalist LEMP v.0.01b released (file sha256: 20e51b575e0543c9e4793db14ded9c68b3cb4e186c568e6ce76b76905a402db2)
+  * **Debian minimalist LEMP** v.0.01b released (file sha256: 20e51b575e0543c9e4793db14ded9c68b3cb4e186c568e6ce76b76905a402db2)
     * VM: VMWare Workstation 17 Player
     * Spec:
       * RAM: 2GB
