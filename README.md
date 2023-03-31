@@ -40,4 +40,7 @@ Download link: http://u.pc.cd/hGActalK
     * LEMP:
       * Nginx 1.18.0
       * MariaDB ver.15.1 Distrib 10.5.18-MariaDB
+        * Admin User: `root`
+        * Admin Pass: `toor`
       * PHP 7.4.33 (CLI)
+      * web folder location: `/var/www/html/`
