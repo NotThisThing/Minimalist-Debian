@@ -4,7 +4,7 @@ The goal of this project is to make the minimal Debian core ready to use
 Download link: http://u.pc.cd/hGActalK 
 
 * 2023-03-31 -> 
-  * Debian minimalist core v.0.01b released (file sha256: a700a5defd8d4e3de7964878fd8823ad0b5fb6234f13cd3bc2ff7a4188dfb3c6)
+  * Debian minimalist core v.0.01b released (file sha256: c8a0674966d4df1894e1c184c54293c9ae7a7dabe956a8688dd9ad0954f54577)
     * VM: VMWare Workstation 17 Player
     * Spec:
       * RAM: 2GB
