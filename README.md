@@ -1,7 +1,7 @@
 # Minimalist-Debian
 The goal of this project is to make the minimal Debian core ready to use
 
-## What is Debian Minimalist Core?
+## What is Debian Minimalist?
 * Debian Minimalist Core is a barebones Linux distribution based on Debian that prioritizes the terminal interface.
 * Debian Minimalist LEMP is an untouched web server based on Debian that prioritizes the terminal interface. It utilizes the LEMP stack (Linux, Nginx, MariaDB, PHP).
 
