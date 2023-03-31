@@ -13,12 +13,6 @@ The goal of this project is to make the minimal Debian core ready to use
     |------|------|-------------|
     | root | toor | admin user account |
     | debian | debian | user account |
-  * user-content:
-    * sudo
-    * neofetch
-    * zsh
-    * oh-my-zsh 
-    * powerlevel10k 
-    * zsh-syntax-highlighting
-    * zsh-autosuggestions
-    * openssh
+  * installed packages for user `debian`:
+    * sudo, openssh, neofetch
+    * zsh, oh-my-zsh, powerlevel10k, zsh-syntax-highlighting, zsh-autosuggestions
