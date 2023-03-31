@@ -2,7 +2,7 @@
 The goal of this project is to make the minimal Debian core ready to use
 
 ## What is Debian Minimalist Core?
-> Debian Minimalist Core is a barebones Linux distribution based on Debian that prioritizes the terminal interface.
+Debian Minimalist Core is a barebones Linux distribution based on Debian that prioritizes the terminal interface.
 
 ## Where can I download it?
 Download link: http://u.pc.cd/hGActalK 
